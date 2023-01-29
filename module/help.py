@@ -42,6 +42,6 @@ USERBOT
 [33] Base64 - encode and decode  text messages - .b64 en <reply text> .b64 de <reply encoded message>
 [34] Snow - animation snow - .snow
 
-Programmer - @Hacker_2oo7
+Programmer - @programmer_www
 """)
 	
